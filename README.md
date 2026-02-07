@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrinceSrinivasan
-- 🌱 I’m currently learning C, C++, Ethical Hacking, Cyber Security, JavaScript, Pyhton
+- 🌱 I’m currently learning C, C++, Networking, Linux, Cyber Security, JavaScript, Pyhton, JAVA
 - 📫 How to reach me - princesrinivasanofficial@gmail.com
 - 🌐 Web - [princesrinivasan](https://princesrinivasan.vercel.app)
 <!---
